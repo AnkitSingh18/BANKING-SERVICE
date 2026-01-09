@@ -33,6 +33,6 @@ You can download and run this project. But first you need to manage jar files.
 getting on the landing  page : A user must start his user-journey on the landing page, before requesting a requesting login/signup, with a url such as : http://localhost:8081/JSW_ONE_BANKING/Landing.html. The response to this link , will return a page with a login/signup button and some information about the bank.
 Make sure you click on the login/signup button to proceed further
  
-For More Details or Any Suggestions u can Reach me at ankit.kumar3@jsw.in
+For More Details or Any Suggestions u can Reach me at ankit15699@gmail.com
 
 
