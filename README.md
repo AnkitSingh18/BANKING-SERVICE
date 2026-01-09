@@ -15,7 +15,7 @@ Steps to follow to run this project on your localhost:
 
 Note:All the data displayed on the website is fetched from the mysql server according to the user whose credentials have been logged in, running locally the server fetches all the data from different databases and then shows the result for the functionally requested by the user on the website panel from the server.
  
-Jsw One Banking Based System is a web based application that can be used in any system to allow users to sign up and log in using static password.
+One Banking Based System is a web based application that can be used in any system to allow users to sign up and log in using static password.
  
 In these normal authentication systems, static passwords are used by users to get in the system. After getting in the system the user can perform 4 banking functionalities. and exit the system by clicking on a form input button which has exit written on it.
  
