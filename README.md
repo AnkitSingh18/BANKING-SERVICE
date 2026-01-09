@@ -1,4 +1,4 @@
-#Jsw-One-Banking
+#One-Banking
 This is one of my project's in Web Developement field which i have created,basically Dynamic and Responsive Bank Applicationsor a Bank's Portal created for the basic functionalities of my Project JSW ONE BANKING, using login credentials users are able to access their account details as well update them.
 
 The flow chart for the project is below
